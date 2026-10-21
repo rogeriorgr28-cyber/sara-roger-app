@@ -1,0 +1,19 @@
+{
+  "name": "Sara & Roger — Biblioteca",
+  "short_name": "Sara & Roger",
+  "description": "Biblioteca pessoal de continuidade visual e prompts. Dados privados ficam no dispositivo.",
+  "lang": "pt-BR",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f7f6f1",
+  "theme_color": "#647c67",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
